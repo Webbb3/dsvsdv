@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-car-data-table/static/css/main.dd48d835.css",
+    "main.js": "/react-car-data-table/static/js/main.ff9cf40d.js",
+    "static/js/498.7a7d2592.chunk.js": "/react-car-data-table/static/js/498.7a7d2592.chunk.js",
+    "static/js/703.506b844b.chunk.js": "/react-car-data-table/static/js/703.506b844b.chunk.js",
+    "static/js/478.c4192677.chunk.js": "/react-car-data-table/static/js/478.c4192677.chunk.js",
+    "index.html": "/react-car-data-table/index.html",
+    "main.dd48d835.css.map": "/react-car-data-table/static/css/main.dd48d835.css.map",
+    "main.ff9cf40d.js.map": "/react-car-data-table/static/js/main.ff9cf40d.js.map",
+    "498.7a7d2592.chunk.js.map": "/react-car-data-table/static/js/498.7a7d2592.chunk.js.map",
+    "703.506b844b.chunk.js.map": "/react-car-data-table/static/js/703.506b844b.chunk.js.map",
+    "478.c4192677.chunk.js.map": "/react-car-data-table/static/js/478.c4192677.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd48d835.css",
+    "static/js/main.ff9cf40d.js"
+  ]
+}
